@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="球面反射.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="4.0315403"
+     inkscape:cx="457.26939"
+     inkscape:cy="606.96404"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker3017"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3015" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1918" />
+    </marker>
+    <g
+       id="g8866">
+      <symbol
+         overflow="visible"
+         id="symbol7303">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path3765" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol1674">
+        <path
+           style="stroke:none;"
+           d="M 2.828125 -6.234375 C 2.828125 -6.4375 2.6875 -6.59375 2.46875 -6.59375 C 2.1875 -6.59375 1.921875 -6.328125 1.921875 -6.0625 C 1.921875 -5.875 2.0625 -5.703125 2.296875 -5.703125 C 2.53125 -5.703125 2.828125 -5.9375 2.828125 -6.234375 Z M 2.078125 -2.484375 C 2.1875 -2.765625 2.1875 -2.796875 2.296875 -3.0625 C 2.375 -3.265625 2.421875 -3.40625 2.421875 -3.59375 C 2.421875 -4.03125 2.109375 -4.40625 1.609375 -4.40625 C 0.671875 -4.40625 0.296875 -2.953125 0.296875 -2.875 C 0.296875 -2.765625 0.390625 -2.765625 0.40625 -2.765625 C 0.515625 -2.765625 0.515625 -2.796875 0.5625 -2.953125 C 0.84375 -3.890625 1.234375 -4.1875 1.578125 -4.1875 C 1.65625 -4.1875 1.828125 -4.1875 1.828125 -3.875 C 1.828125 -3.65625 1.75 -3.453125 1.71875 -3.34375 C 1.640625 -3.09375 1.1875 -1.9375 1.03125 -1.5 C 0.921875 -1.25 0.796875 -0.921875 0.796875 -0.703125 C 0.796875 -0.234375 1.140625 0.109375 1.609375 0.109375 C 2.546875 0.109375 2.921875 -1.328125 2.921875 -1.421875 C 2.921875 -1.53125 2.828125 -1.53125 2.796875 -1.53125 C 2.703125 -1.53125 2.703125 -1.5 2.65625 -1.34375 C 2.46875 -0.71875 2.140625 -0.109375 1.640625 -0.109375 C 1.46875 -0.109375 1.390625 -0.203125 1.390625 -0.4375 C 1.390625 -0.6875 1.453125 -0.828125 1.6875 -1.4375 Z M 2.078125 -2.484375 "
+           id="path2525" />
+      </symbol>
+    </g>
+    <g
+       id="g1185">
+      <symbol
+         overflow="visible"
+         id="symbol9273">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path539" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol9642">
+        <path
+           style="stroke:none;"
+           d="M 6.5625 -2.296875 C 6.734375 -2.296875 6.921875 -2.296875 6.921875 -2.5 C 6.921875 -2.6875 6.734375 -2.6875 6.5625 -2.6875 L 1.171875 -2.6875 C 1 -2.6875 0.828125 -2.6875 0.828125 -2.5 C 0.828125 -2.296875 1 -2.296875 1.171875 -2.296875 Z M 6.5625 -2.296875 "
+           id="path1262" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol5572">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path494" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol4360">
+        <path
+           style="stroke:none;"
+           d="M 2.828125 -6.234375 C 2.828125 -6.4375 2.6875 -6.59375 2.46875 -6.59375 C 2.1875 -6.59375 1.921875 -6.328125 1.921875 -6.0625 C 1.921875 -5.875 2.0625 -5.703125 2.296875 -5.703125 C 2.53125 -5.703125 2.828125 -5.9375 2.828125 -6.234375 Z M 2.078125 -2.484375 C 2.1875 -2.765625 2.1875 -2.796875 2.296875 -3.0625 C 2.375 -3.265625 2.421875 -3.40625 2.421875 -3.59375 C 2.421875 -4.03125 2.109375 -4.40625 1.609375 -4.40625 C 0.671875 -4.40625 0.296875 -2.953125 0.296875 -2.875 C 0.296875 -2.765625 0.390625 -2.765625 0.40625 -2.765625 C 0.515625 -2.765625 0.515625 -2.796875 0.5625 -2.953125 C 0.84375 -3.890625 1.234375 -4.1875 1.578125 -4.1875 C 1.65625 -4.1875 1.828125 -4.1875 1.828125 -3.875 C 1.828125 -3.65625 1.75 -3.453125 1.71875 -3.34375 C 1.640625 -3.09375 1.1875 -1.9375 1.03125 -1.5 C 0.921875 -1.25 0.796875 -0.921875 0.796875 -0.703125 C 0.796875 -0.234375 1.140625 0.109375 1.609375 0.109375 C 2.546875 0.109375 2.921875 -1.328125 2.921875 -1.421875 C 2.921875 -1.53125 2.828125 -1.53125 2.796875 -1.53125 C 2.703125 -1.53125 2.703125 -1.5 2.65625 -1.34375 C 2.46875 -0.71875 2.140625 -0.109375 1.640625 -0.109375 C 1.46875 -0.109375 1.390625 -0.203125 1.390625 -0.4375 C 1.390625 -0.6875 1.453125 -0.828125 1.6875 -1.4375 Z M 2.078125 -2.484375 "
+           id="path8201" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol159">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path6149" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol4861">
+        <path
+           style="stroke:none;"
+           d="M 2.015625 -3.296875 C 2.078125 -3.40625 2.078125 -3.46875 2.078125 -3.515625 C 2.078125 -3.734375 1.890625 -3.890625 1.671875 -3.890625 C 1.40625 -3.890625 1.328125 -3.671875 1.296875 -3.5625 L 0.375 -0.546875 C 0.359375 -0.53125 0.328125 -0.453125 0.328125 -0.4375 C 0.328125 -0.359375 0.546875 -0.28125 0.609375 -0.28125 C 0.65625 -0.28125 0.65625 -0.296875 0.703125 -0.40625 Z M 2.015625 -3.296875 "
+           id="path860" />
+      </symbol>
+    </g>
+    <g
+       id="g8989">
+      <symbol
+         overflow="visible"
+         id="symbol7762">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path9049" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol1165">
+        <path
+           style="stroke:none;"
+           d="M 3.703125 -3.25 C 3.796875 -3.34375 3.796875 -3.390625 3.796875 -3.40625 C 3.796875 -3.453125 3.765625 -3.515625 3.734375 -3.546875 L 1.6875 -6.5 L 3.984375 -6.5 C 5.671875 -6.5 6.171875 -6.140625 6.375 -4.5625 L 6.625 -4.5625 L 6.34375 -6.8125 L 0.8125 -6.8125 C 0.578125 -6.8125 0.5625 -6.8125 0.5625 -6.578125 L 3.046875 -2.96875 L 0.671875 -0.265625 C 0.5625 -0.15625 0.5625 -0.140625 0.5625 -0.109375 C 0.5625 0 0.671875 0 0.8125 0 L 6.34375 0 L 6.625 -2.359375 L 6.375 -2.359375 C 6.203125 -0.6875 5.515625 -0.421875 3.953125 -0.421875 L 1.203125 -0.421875 Z M 3.703125 -3.25 "
+           id="path5798" />
+      </symbol>
+    </g>
+    <g
+       id="g6052">
+      <symbol
+         overflow="visible"
+         id="symbol9254">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path2984" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol1668">
+        <path
+           style="stroke:none;"
+           d="M 0.875 -0.59375 C 0.84375 -0.4375 0.78125 -0.203125 0.78125 -0.15625 C 0.78125 0.015625 0.921875 0.109375 1.078125 0.109375 C 1.203125 0.109375 1.375 0.03125 1.453125 -0.171875 C 1.46875 -0.203125 1.796875 -1.5625 1.84375 -1.75 C 1.921875 -2.078125 2.109375 -2.765625 2.15625 -3.046875 C 2.203125 -3.171875 2.484375 -3.640625 2.71875 -3.859375 C 2.796875 -3.921875 3.09375 -4.1875 3.515625 -4.1875 C 3.78125 -4.1875 3.921875 -4.0625 3.9375 -4.0625 C 3.640625 -4.015625 3.421875 -3.78125 3.421875 -3.515625 C 3.421875 -3.359375 3.53125 -3.171875 3.796875 -3.171875 C 4.0625 -3.171875 4.34375 -3.40625 4.34375 -3.765625 C 4.34375 -4.109375 4.03125 -4.40625 3.515625 -4.40625 C 2.875 -4.40625 2.4375 -3.921875 2.25 -3.640625 C 2.15625 -4.09375 1.796875 -4.40625 1.328125 -4.40625 C 0.875 -4.40625 0.6875 -4.015625 0.59375 -3.84375 C 0.421875 -3.5 0.296875 -2.90625 0.296875 -2.875 C 0.296875 -2.765625 0.390625 -2.765625 0.40625 -2.765625 C 0.515625 -2.765625 0.515625 -2.78125 0.578125 -3 C 0.75 -3.703125 0.953125 -4.1875 1.3125 -4.1875 C 1.46875 -4.1875 1.609375 -4.109375 1.609375 -3.734375 C 1.609375 -3.515625 1.578125 -3.40625 1.453125 -2.890625 Z M 0.875 -0.59375 "
+           id="path9922" />
+      </symbol>
+    </g>
+    <g
+       id="g8644">
+      <symbol
+         overflow="visible"
+         id="symbol5868">
+        <path
+           style="stroke:none;"
+           d=""
+           id="path9878" />
+      </symbol>
+      <symbol
+         overflow="visible"
+         id="symbol5410">
+        <path
+           style="stroke:none;"
+           d="M 0.875 -0.59375 C 0.84375 -0.4375 0.78125 -0.203125 0.78125 -0.15625 C 0.78125 0.015625 0.921875 0.109375 1.078125 0.109375 C 1.203125 0.109375 1.375 0.03125 1.453125 -0.171875 C 1.46875 -0.203125 1.796875 -1.5625 1.84375 -1.75 C 1.921875 -2.078125 2.109375 -2.765625 2.15625 -3.046875 C 2.203125 -3.171875 2.484375 -3.640625 2.71875 -3.859375 C 2.796875 -3.921875 3.09375 -4.1875 3.515625 -4.1875 C 3.78125 -4.1875 3.921875 -4.0625 3.9375 -4.0625 C 3.640625 -4.015625 3.421875 -3.78125 3.421875 -3.515625 C 3.421875 -3.359375 3.53125 -3.171875 3.796875 -3.171875 C 4.0625 -3.171875 4.34375 -3.40625 4.34375 -3.765625 C 4.34375 -4.109375 4.03125 -4.40625 3.515625 -4.40625 C 2.875 -4.40625 2.4375 -3.921875 2.25 -3.640625 C 2.15625 -4.09375 1.796875 -4.40625 1.328125 -4.40625 C 0.875 -4.40625 0.6875 -4.015625 0.59375 -3.84375 C 0.421875 -3.5 0.296875 -2.90625 0.296875 -2.875 C 0.296875 -2.765625 0.390625 -2.765625 0.40625 -2.765625 C 0.515625 -2.765625 0.515625 -2.78125 0.578125 -3 C 0.75 -3.703125 0.953125 -4.1875 1.3125 -4.1875 C 1.46875 -4.1875 1.609375 -4.109375 1.609375 -3.734375 C 1.609375 -3.515625 1.578125 -3.40625 1.453125 -2.890625 Z M 0.875 -0.59375 "
+           id="path7987" />
+      </symbol>
+    </g>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.24054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.25,161.39583 h 53.2474"
+       id="path859"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1006"
+       sodipodi:type="arc"
+       sodipodi:cx="133.6841"
+       sodipodi:cy="161.46159"
+       sodipodi:rx="11.410158"
+       sodipodi:ry="11.410158"
+       sodipodi:start="1.944211"
+       sodipodi:end="4.3508333"
+       sodipodi:arc-type="arc"
+       d="m 129.52171,172.08544 a 11.410158,11.410158 0 0 1 -7.24757,-10.6915 11.410158,11.410158 0 0 1 7.37384,-10.60481"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.14375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 131.76251,161.39583 v 0 l -13.69219,-7.60676"
+       id="path2701"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 102.85677,161.39583 19.77761,-4.56406 h 0.76067"
+       id="path2896"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.230513;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3017)"
+       d="m 123.39505,156.83177 -4.56407,-13.69219"
+       id="path3013"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476" />
+    <g
+       inkscape:label=""
+       transform="matrix(0.27043362,0,0,0.27043362,93.843725,134.8684)"
+       id="g1075"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476">
+      <g
+         id="g3486">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g927">
+          <use
+             xlink:href="#symbol1674"
+             x="91.925003"
+             y="81.962997"
+             id="use4987"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label=""
+       transform="matrix(0.21679022,0,0,0.21679022,98.97088,136.5527)"
+       id="g1194"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476">
+      <g
+         id="g9469">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g9980">
+          <use
+             xlink:href="#symbol9642"
+             x="91.925003"
+             y="81.962997"
+             id="use5759"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g3320">
+          <use
+             xlink:href="#symbol4360"
+             x="99.674004"
+             y="81.962997"
+             id="use9796"
+             width="100%"
+             height="100%" />
+        </g>
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g4301">
+          <use
+             xlink:href="#symbol4861"
+             x="103.106"
+             y="77.848999"
+             id="use6016"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label=""
+       transform="matrix(0.25170621,0,0,0.25170621,107.34543,130.20809)"
+       id="g1376"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476">
+      <g
+         id="g3064">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g5575">
+          <use
+             xlink:href="#symbol1165"
+             x="91.925003"
+             y="81.962997"
+             id="use3018"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label=""
+       transform="matrix(0.69100246,0,0,0.82396918,64.267002,91.389012)"
+       id="g1788"
+       inkscape:export-filename="/home/xudonghan/Data/projects/Markdown/光学笔记/几何光学/image/成像/球面反射.png"
+       inkscape:export-xdpi="215.81476"
+       inkscape:export-ydpi="215.81476">
+      <g
+         id="g9572">
+        <g
+           style="fill:#000000;fill-opacity:1"
+           id="g7818">
+          <use
+             xlink:href="#symbol5410"
+             x="91.925003"
+             y="81.962997"
+             id="use3171"
+             width="100%"
+             height="100%"
+             transform="matrix(0.52987598,0,0,0.52987598,43.093086,37.773949)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
